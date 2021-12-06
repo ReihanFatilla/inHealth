@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PagiActivity" parent="Theme.UrHealth">
+
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="colorPrimary">@color/PrimaryColor</item>
+    </style>
+</resources>
