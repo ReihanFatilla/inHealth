@@ -163,7 +163,7 @@ object DataArtikel {
         R.drawable.img_arr2,
         R.drawable.img_arr3,
         R.drawable.img_arr4,
-        R.drawable.img_5,
+        R.drawable.img_3,
         R.drawable.img_arr6
 
     )
