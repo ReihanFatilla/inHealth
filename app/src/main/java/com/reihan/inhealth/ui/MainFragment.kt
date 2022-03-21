@@ -31,7 +31,6 @@ class MainFragment : Fragment() {
             layoutManager = LinearLayoutManager(activity)
             adapter = NewsAdapter(DataNews.dataTrending)
         }
-
         binding.rvArtikelPopuler.apply {
             layoutManager = LinearLayoutManager(activity, HORIZONTAL, false)
             adapter = ArtikelAdapter(DataArtikel.dataPopuler)

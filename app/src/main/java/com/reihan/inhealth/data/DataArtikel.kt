@@ -141,12 +141,12 @@ object DataArtikel {
     )
 
     private val authorExplore = arrayOf(
-        "Ditinjau oleh: dr. Allert Benedicto Ieuan Noya",
-        "Ditinjau oleh: dr. Kevin Adrian",
-        "Ditinjau oleh: dr. Kevin Adrian",
-        "Ditinjau oleh: dr. Sienny Agustin",
-        "Ditinjau oleh: dr. Meva Nareza",
-        "Ditinjau oleh: dr. Kevin Adrian"
+        "Allert Benedicto Ieuan Noya",
+        "Kevin Adrian",
+        "Kevin Adrian",
+        "Sienny Agustin",
+        "Meva Nareza",
+        "Kevin Adrian"
     )
 
     private val dateExplore = arrayOf(

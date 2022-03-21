@@ -12,7 +12,8 @@
         <activity
             android:name=".ui.DetailNewsActivity"
             android:exported="true"
-            android:theme="@style/DetailActivity"/>
+            android:theme="@style/DetailActivity"
+            />
         <activity
             android:name=".ui.DetailActivity"
             android:exported="true"

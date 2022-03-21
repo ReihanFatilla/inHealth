@@ -286,9 +286,9 @@ object DataNews {
         "Merry Dame Cristy Pane",
         "Meva Nareza",
         "Kevin Adrian",
-        "Sienny Agustin\n",
-        "Rizki Tamin\n",
-        "Kevin Adrian\n"
+        "Sienny Agustin",
+        "Rizki Tamin",
+        "Kevin Adrian"
     )
     private val dateExplore = arrayOf(
 
@@ -305,7 +305,7 @@ object DataNews {
         "14 Oktober 2019",
         "18 November 2021",
         "21 Desember 2021",
-        "9 Februari 2021"
+        "9 Februari 2021",
         "07 Des 2021"
     )
 
@@ -448,7 +448,7 @@ object DataNews {
                 "Guna menghindari iritasi mata akibat abu letusan yang pekat, maka anak bisa menggunakan kacamata.\n" +
                 "Sebelum mengungsi, orangtua sebaiknya menyiapkan obat-obatan emergensi, dan perlengkapan emergensi dalam satu tas darurat.\n" +
                 "Hindari mengungsi di daerah hilir letusan, dan sebaiknya mengungsi di posko yang sudah ditetapkan pemerintah, dan\n" +
-                "Tetap disiplin menjaga protokol kesehatan selama di pengungsian.\n"
+                "Tetap disiplin menjaga protokol kesehatan selama di pengungsian.\n",
         "Penyebab Mata Ikan\n" +
                 "Pada dasarnya, penyebab terjadinya mata ikan adalah tekanan dan gesekan di kulit terjadi berulang kali. Mata ikan muncul sebagai reaksi alami tubuh untuk melindungi kulit agar tidak mengalami luka atau kerusakan lain yang mungkin terjadi akibat tekanan dan gesekan tersebut.\n" +
                 "\n" +
